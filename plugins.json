@@ -1,29 +1,11 @@
 [
   {
-    "name": "Donghua AR (Anime4up)",
+    "name": "Donghua AR",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/tifhy5gi99-rgb/donghua-ar-extension/main/Anime4up.cs3",
-    "filename": "Anime4up",
+    "url": "https://raw.githubusercontent.com/tifhy5gi99-rgb/donghua-ar-extension/main/donghua-ar.apk",
+    "filename": "donghua-ar",
     "language": "ar",
     "iconUrl": "https://donghua-ar.me/favicon.ico",
-    "description": "مصدر دونغهوا وأنيمي عبر محرك Anime4up"
-  },
-  {
-    "name": "Witanime",
-    "version": 1,
-    "url": "https://raw.githubusercontent.com/tifhy5gi99-rgb/donghua-ar-extension/main/Witanime.cs3",
-    "filename": "Witanime",
-    "language": "ar",
-    "iconUrl": "https://witanime.pics/favicon.ico",
-    "description": "أفضل مصدر للأنمي والدونغهوا المترجمة"
-  },
-  {
-    "name": "Akwam",
-    "version": 1,
-    "url": "https://raw.githubusercontent.com/tifhy5gi99-rgb/donghua-ar-extension/main/Akwam.cs3",
-    "filename": "Akwam",
-    "language": "ar",
-    "iconUrl": "https://akwam.to/favicon.ico",
-    "description": "مصدر أكوام للأفلام والمسلسلات"
+    "description": "إضافة موقع دونغهوا بالعربية لمشاهدة الأنمي والدونغهوا"
   }
 ]
