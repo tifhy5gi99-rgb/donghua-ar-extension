@@ -3,6 +3,6 @@
   "description": "المصدر الرسمي لموقع دونغهوا بالعربية لتطبيق Cloud Stream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/tifhy5gi99-rgb/donghua-ar-extension/main/plugins.json"
+    "https://tifhy5gi99-rgb.github.io/donghua-ar-extension/plugins.json"
   ]
 }
