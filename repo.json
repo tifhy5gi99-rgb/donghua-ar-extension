@@ -1,0 +1,8 @@
+{
+  "name": "Donghua AR Extension",
+  "description": "المصدر الرسمي لموقع دونغهوا بالعربية لتطبيق Cloud Stream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/tifhy5gi99-rgb/donghua-ar-extension/master/plugins.json"
+  ]
+}
